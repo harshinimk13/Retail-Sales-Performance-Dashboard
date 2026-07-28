@@ -181,5 +181,3 @@ MCA Student | Aspiring Data Analyst
 GitHub: https://github.com/harshinimk13
 
 ---
-
-⭐ If you found this project useful, don't forget to star the repository!
